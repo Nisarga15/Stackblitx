@@ -44,6 +44,7 @@ Start the project directly from the StackBlitz interface
 
 **👩‍💻 Author**
 Nisarga Vishwamanjuswamy
+Github: https://github.com/Nisarga15
 
 **📄 Notes**
 This repository is for educational and practice purposes.
