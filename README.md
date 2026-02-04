@@ -32,7 +32,7 @@ cd Stackblitx/Node\ Express
 Install dependencies (if applicable):
 npm install
 
-Start the server:
+Start the server (using terminal):
 node index.js
 or
 npm start
