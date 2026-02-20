@@ -44,11 +44,12 @@ Start the project directly from the StackBlitz interface
 
 **👩‍💻 Author**
 Nisarga Vishwamanjuswamy
-Github: https://github.com/Nisarga15
+Master’s in Computer Science | Passionate about AI, Data Analytics, and Cloud Computing.
+Feel free to reach out if you need any assisance!!
+⭐ If you found this project useful, consider giving it a star!
 
 **📄 Notes**
 This repository is for educational and practice purposes.
 Code may be minimal and focused on understanding concepts rather than production use.
 
-**📄 Notes**
-This repository is for educational and practice purposes.
+
